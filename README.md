@@ -92,15 +92,15 @@
   * 오픈소스 SW 커뮤니티의 특징
   
   * LAB 6: 
-    * 오픈소스 SW 실습 (e.g., Wireshark)
-    * Documentation using Git   
+    * 협업을 통한 Documentation
+    * Pull request, Rebase, ...
     
 * 9주: 
   * 오픈소스 소프트웨어 비즈니스 분류체계 및 예시
   
-  * LAB 7: 
-    * 협업을 통한 Documentation
-    * Pull request, Rebase, ...
+  * LAB 7:    
+    * 오픈소스 SW 실습 (e.g., Wireshark)
+    * Documentation using Git   
     
     
 * 10주: 
