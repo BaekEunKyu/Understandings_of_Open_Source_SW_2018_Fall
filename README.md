@@ -56,28 +56,26 @@
     * Git 설치 및 GitHub 계정 생성
     * Soucretree 설치 및 GitHub 계정 연동
     * Version Control Systems (VCSs)의 이해 
-        
+    
 * 3주: 
-  * 소프트웨어 산업의 현황 및 전망
+  * 오픈소스 SW 라이선스의 특징, 저작권 등에 대한 소개 
   
   * LAB 2: 
     * Git 기본 명령어 실습
-    
-    
+   
 * 4주: 
-  * 오픈소스 SW 비즈니스 모델 소개 및 오픈소스 SW의 가치 이해 
+  * 오픈소스 SW 거버넌스
   
   * LAB 3: 
     * Git의 Branching model의 이해
     * Branch & Merge 실습
     
 * 5주: 
-  * 오픈소스 라이선스의 특징, 저작권 등에 대한 소개 
+  * 오픈소스 SW 비즈니스 모델 소개 및 오픈소스 SW의 가치 이해 
   
   * LAB 4: 
-    * Git의 충돌 실습 및 해결 
-    
-
+    * Git의 충돌 실습 및 해결   
+        
 * 6주: 
   * 오픈소스 SW 프로젝트의 특징 및 개발 방법론
   
