@@ -80,7 +80,8 @@
   * 오픈소스 SW 프로젝트의 특징 및 개발 방법론
   
   * LAB 5: 
-    * Commits 관리 (Reset, Revert ... ) 
+    * 협업을 통한 Documentation
+    * Fork and Pull request
        
 * 7주: 
   * 중간 고사 
@@ -90,27 +91,27 @@
   * 오픈소스 SW 커뮤니티의 특징
   
   * LAB 6: 
-    * 협업을 통한 Documentation
-    * Pull request, Rebase, ...
+    * Commits 관리 -1 (Reset, Revert ... )  
     
 * 9주: 
   * 오픈소스 소프트웨어 비즈니스 분류체계 및 예시
   
   * LAB 7:    
-    * 오픈소스 SW 실습 (e.g., Wireshark)
-    * Documentation using Git   
+    * Commits 관리 -2 (Amend, Rebase ... )  
     
     
 * 10주: 
-  * 오픈소스 SW의 지원 정책
+  * 오픈소스 소프트웨어 특강 -1
+    * 오픈소스의 역사 및 현황
   
   * LAB 8: 
-    * 오픈소스 SW 실습 (e.g., Tex)
-    * Documentation using Git 
+    * 오픈소스 SW 실습 (e.g., Wireshark)
+    * Documentation using Git   
     
    
 * 11주: 
-  * 오픈소스 소프트웨어의 전망에 대한 이해
+  * 오픈소스 소프트웨어 특강 -2
+     * 인공지능과 오픈소스
   
   * LAB 9: 
     * 오픈소스 SW 실습 (e.g., 텐서플로우)
@@ -118,29 +119,34 @@
     
     
 * 12주: 
-  * 오픈소스 SW관련 컨퍼런스 현황 파악
-    * 삼성전자 오픈소스 컨퍼런스, <https://www.soscon.net/>
-    * Others
+  * 오픈소스 소프트웨어 특강 -3 
+    * 블록체인과 오픈소스
   
   * LAB 10: 
-    * 오픈소스 SW 실습 (e.g., Automated Vulnerability Analysis System)
+    * 오픈소스 SW 실습 (e.g., 암호 라이브러리)
     * Documentation using Git 
     
  
 * 13주: 
-  * 오픈소스 소프트웨어 특강 - 1
+  * 오픈소스 소프트웨어 특강 - 4
     * Naver, Daum 등의 오픈소스 소프트웨어 현황 및 미래 전략 파악
   
-  * LAB 11: 
-    * Project using Git 
+  * 오픈소스 라이선스 심화 - 1
     
     
 * 14주: 
-  * 오픈소스 소프트웨어 특강 - 2
+  * 오픈소스 소프트웨어 특강 - 5
     * Google의 오픈소스 소프트웨어 현황 및 미래 전략 파악
   
-  * LAB 12: 
-    * Project using Git 
+  * 오픈소스 라이선스 심화 - 2
+    
+    
+* 보강주: 
+  * SW 공모전 아이디어 발표회
+    * 팀별 SW 공모전 아이디어 발표 (오픈소스 활용 시, 가산점)
+  
+  * Final Lab: 
+    * Git Test Day!!! 
     
 
 
@@ -148,7 +154,7 @@
 --------
 * 중간고사 25%, 기말고사 25% 
 
-* 프로젝트 20%, 실습 20%, 출석 및 기타 10% 
+* 프로젝트 20%, 실습 및  20%, 출석 및 기타 10% 
 
 * 과제 copy 시에 해당 과제 0점 처리 
 
